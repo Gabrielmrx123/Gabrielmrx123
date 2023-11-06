@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas a meu perfil 🫀
 
-<!--
-**Gabrielmrx123/Gabrielmrx123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Gabriel Luiz Martins
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vocẽ entra em contato comigo ⚓
+
+gabriel.luiz.martins@escola.pr.gov.br
+
+@gabrielczxx_
+
+![](https://media.tenor.com/0RAbURFv1pcAAAAC/tense-table-smash.gif)
